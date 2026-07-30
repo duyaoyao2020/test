@@ -1,0 +1,6 @@
+[submodule "third_party/Humanizer-zh"]
+	path = third_party/Humanizer-zh
+	url = https://github.com/op7418/Humanizer-zh.git
+[submodule "third_party/no-ai-slop"]
+	path = third_party/no-ai-slop
+	url = https://github.com/petergyang/no-ai-slop.git
